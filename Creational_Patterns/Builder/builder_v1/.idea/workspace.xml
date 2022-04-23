@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8586a79f-8411-4593-a3b4-8cb97f4f9469" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/src/main/java/com/company/openclose/CallHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/src/main/java/com/company/openclose/ISPSubscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/src/main/java/com/company/openclose/InternetSessionHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/src/main/java/com/company/openclose/PhoneSubscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/src/main/java/com/company/openclose/Subscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/META-INF/maven/com.udemy/design_principles/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/META-INF/maven/com.udemy/design_principles/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/CallHistory$Call.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/CallHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/ISPSubscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/InternetSessionHistory$InternetSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/InternetSessionHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/PhoneSubscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/classes/com/company/openclose/Subscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/surefire-reports/TEST-com.company.controller.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/surefire-reports/TEST-com.company.service.LoginServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/surefire-reports/com.company.controller.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - OC - begin/target/surefire-reports/com.company.service.LoginServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/UserPersistenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/src/main/java/com/company/singleresp/UserValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/UserPersistenceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/classes/com/company/singleresp/UserValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/surefire-reports/TEST-com.company.controller.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/surefire-reports/TEST-com.company.service.LoginServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/surefire-reports/com.company.controller.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - SRP - hands on begin/target/surefire-reports/com.company.service.LoginServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/FormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/Formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/JSONFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/MessagePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/src/main/java/com/company/depinv/TextFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/FormatException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/JSONFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/MessagePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/classes/com/company/depinv/TextFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/surefire-reports/TEST-com.company.controller.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/surefire-reports/TEST-com.company.service.LoginServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/surefire-reports/com.company.controller.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/target/surefire-reports/com.company.service.LoginServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - dependency inv - begin/test_msg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/entity/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/service/OrderPersistenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/service/PersistenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/src/main/java/com/company/intersegrega/service/UserPersistenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/META-INF/maven/com.udemy/design_principles/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/META-INF/maven/com.udemy/design_principles/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/com/company/intersegrega/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/com/company/intersegrega/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/com/company/intersegrega/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/com/company/intersegrega/service/PersistenceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/classes/com/company/intersegrega/service/UserPersistenceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/surefire-reports/TEST-com.company.controller.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/surefire-reports/TEST-com.company.service.LoginServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/surefire-reports/com.company.controller.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - interface Segregation - begin/target/surefire-reports/com.company.service.LoginServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/src/main/java/com/company/liskov_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/src/main/java/com/company/liskov_1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/src/main/java/com/company/liskov_1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/src/main/java/com/company/liskov_1/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/classes/com/company/liskov_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/classes/com/company/liskov_1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/classes/com/company/liskov_1/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/classes/com/company/liskov_1/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/surefire-reports/TEST-com.company.controller.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/surefire-reports/TEST-com.company.service.LoginServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/surefire-reports/com.company.controller.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_principles - liskov - begin/target/surefire-reports/com.company.service.LoginServiceTest.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27TUOgGRGRdIunQfoENuDZ6xB1i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8586a79f-8411-4593-a3b4-8cb97f4f9469" name="Changes" comment="" />
+      <created>1649343572291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649343572291</updated>
+      <workItem from="1649343610054" duration="2127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
